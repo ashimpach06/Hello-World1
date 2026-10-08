@@ -1,5 +1,5 @@
 # Hello-World1
-# Ava's First Repository
+# **Ava's** First Repository
 This repository is a template for a good README.md file, that can be used for describing a project
 
 
@@ -17,11 +17,11 @@ This repository is a template for a good README.md file, that can be used for de
 
 ## Description
 
-I'm practicing using github by creating a sample repository. The description is important because it helps others to understand the project. This should explain what you did, what you accomplished, outcomes, results, etc. Usually a couple of paragraphs.
+I'm practicing using github by creating a sample repository. The description is important because it helps others to ~~not~~ understand the project. This should explain what you did, what you accomplished, outcomes, results, etc. Usually a couple of paragraphs.
 
 ## Tools Used
 
-Discuss all the programming languages and tools used for this project. 
+Discuss all the programming languages and tools used <do it because this will showcase your skills> for this project. 
 
 ## Files Used
 
@@ -30,8 +30,8 @@ Discuss all the programming languages and tools used for this project.
 
 ## How to Run Program
 
-Here is were I would write instructions for how to run the program I have created, so any person could use it. 
+Here is were I would write instructions for how to run the program I have created, ***so any person could use it***. 
 
-## Additional Information
+### Additional Information
 
 Any extra information that could be helpful to other users of your program put here (:
