@@ -21,7 +21,7 @@ I'm **practicing** using github by creating a sample repository. The description
 
 ## Tools Used
 
-Discuss all the programming languages and tools used <do it because this will showcase your skills> for this project. 
+Discuss all the programming languages and tools used <Sup>Superscript</Sup> do it because this will showcase your skills for this project. 
 
 ## Files Used
 
