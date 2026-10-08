@@ -4,11 +4,11 @@ This repository is a template for a good README.md file, that can be used for de
 
 
 ## Table of Contents
--[PROJECT TITLE] (#Project-Title)
--[DESCRIPTION] (#Description)
--[TOOLS USED] (#Tools-Used)
--[FILES USED] (#Files-Used)
--[HOW TO RUN PROGRAM] (#How-to-Run-Program)
+-[PROJECT TITLE](#Project-Title)
+-[DESCRIPTION](#Description)
+-[TOOLS USED](#Tools-Used)
+-[FILES USED](#Files-Used)
+-[HOW TO RUN PROGRAM](#How-to-Run-Program)
 -[ADDITIONAL INFORMATION](#Additional-Information)
 
 ## Project Title
